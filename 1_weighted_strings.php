@@ -60,7 +60,7 @@ function weightedStrings($s, $queries)
 
 // Contoh penggunaan:
 $string = 'abbcccd';
-$queries = [1, 4, 9, 4];
+$queries = [1, 3, 9, 8];
 
 $output = weightedStrings($string, $queries);
 
